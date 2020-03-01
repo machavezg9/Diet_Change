@@ -13,6 +13,6 @@
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | ------ | ------ | ------- | --------- | -------- | ------ | -------- |
 | Free Card | Enfrijoladas | Tinga Tostada | Rajas De Chile | Tacos De Adobada (Puerco) | Calabazitas con Crema | Salmon Con Verduras |
-
+| Free Card | Pollo Escamole | Chiles Rellenos | Caldo De Pollo Rojo | Chicharron | Camarones Al Ajillo | Nopales |
 
 https://www.cocinafacil.com.mx/recetas-de-comida/receta/recetas-de-pollo-faciles-y-economicas-mexicanas/
