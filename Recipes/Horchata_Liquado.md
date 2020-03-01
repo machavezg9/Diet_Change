@@ -10,3 +10,5 @@
 | Chai Spice | 1/2 | Tsp |
 | Cinamon | 1/2 | Tsp |
 | Dates | 3 | Pcs |
+
+[Inspiration](https://24carrotlife.com/2014/05/20/horchata-smoothie/)
