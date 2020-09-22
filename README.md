@@ -21,7 +21,7 @@ https://www.cocinafacil.com.mx/recetas-de-comida/receta/recetas-de-pollo-faciles
 3 Reps Each
 
 | Workout 1 (Abs) | Workout 2 (Legs) | Workout 3 (tri, chest, shoulder) | Workout 4 |
-| ------ | ------ | ------- | ------- | ------- |
+| ------ | ------ | ------- | ------- | 
 | 15 knee crunches | 25 juping jacks | 10 incline press |  |
 | 30 flutter kicks | 15 squat punch | 12 standing lateral raise |  |
 | 30 penguins | 50 forward and back jumps | 12 seated front raise |  |
